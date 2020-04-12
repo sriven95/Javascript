@@ -1,0 +1,22 @@
+nav {
+    background-color:black;
+    text-align: center;
+}
+a {
+    text-decoration-line: none;
+}
+nav ul {
+    list-style: none;
+}
+nav li {
+    display: inline-block;
+    padding: 30px;
+}
+
+form {
+    margin: 100px;
+}
+.text1{
+    margin: 100px;
+    padding: 20%;
+}
